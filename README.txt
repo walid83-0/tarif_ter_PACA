@@ -18,8 +18,8 @@ Ce projet vise à analyser les **prix moyens des billets TER** en fonction des *
 ## 📁 Contenu du repository
 .
 │ └── tarifs-ter-paca.csv # Jeu de données nettoyé
-│ └── analyse_prix_ter.py # Script d'analyse et visualisation
-│ ├── graphique_prix_moyen.html # Version interactive
+│ └── analyse_prix_ter.py # Script d'analyse et visualisation 
+│ ├── graphique_prix_moyen.html # Version interactive [la télécharger et l'exécuter]
 │ └── graphique_prix_ter.png # Export statique
 └── README.md # Ce ficher 
 
