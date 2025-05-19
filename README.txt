@@ -54,7 +54,7 @@ Je pense que cette spécificité s’explique par sa situation géographique : g
 À l’inverse, certaines gares comme **La Pomme** présentent un prix moyen très bas (**3,90 €**) , parce qu’elles sont **rattachées à une seule ou peux de liaison** (ici  par exemple seulement vers **Marseille**) et que c'est des trajets courts . Cela montre que la diversité des destinations et des distances est un facteur structurant dans la variation des prix moyens.
 
 
-
+Je serais heureux de prendre en compte vos suggestions pour améliorer cette analyse et enrichir ce projet. N’hésitez pas à me faire part de vos retours ou idées !
 
 
 
