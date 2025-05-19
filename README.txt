@@ -36,7 +36,7 @@ après nettoyage elles comprennent les colonnes suivantes :
 
 ## 🧪 Méthodologie
 
-1. Chargement et nettoyage du fichier CSV garder les données les plus importantes: Origine| Type tarif| Prix
+1.J'ai aprés l'avoir télécharger nettoyer le fichier CSV garder les données les plus importantes: Origine| Type tarif| Prix
 
 2. Filtrage sur les lignes où `Type tarif == "Tarif normal"`
 3. Groupement par `Origine`
@@ -47,9 +47,9 @@ après nettoyage elles comprennent les colonnes suivantes :
 
 L’analyse met en évidence des écarts significatifs de prix moyen selon les gares de départ. Certaines gares présentent des tarifs moyens autour de **5 €**, tandis que d’autres dépassent les **20 €**.
 
-Parmi les cas les plus marquants, la gare de **Briançon** affiche un prix moyen de **29,81 €**, la plaçant parmi les plus chères de la région.
+Ainsi parmi les cas les plus marquants, la gare de **Briançon** affiche un prix moyen de **29,81 €**, la plaçant parmi les plus chères de la région.
 
-Cette spécificité s’explique par sa situation géographique : gare de montagne enclavée, terminus de ligne, avec des trajets longs vers les grandes villes régionales, souvent facturés entre **40 et 60 €**.
+Je pense que cette spécificité s’explique par sa situation géographique : gare de montagne enclavée, terminus de ligne, avec des trajets longs vers les grandes villes régionales, souvent facturés entre **40 et 60 €**.
 
 À l’inverse, certaines gares comme **La Pomme** présentent un prix moyen très bas (**3,90 €**) , parce qu’elles sont **rattachées à une seule ou peux de liaison** (ici  par exemple seulement vers **Marseille**) et que c'est des trajets courts . Cela montre que la diversité des destinations et des distances est un facteur structurant dans la variation des prix moyens.
 
